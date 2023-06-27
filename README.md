@@ -3,7 +3,8 @@
 Flavorful Fare is a web application that serves as your ultimate recipe haven. It provides a wide collection of carefully crafted recipes, expert tips, and step-by-step guidance to elevate your dining experiences and create delicious masterpieces in the kitchen.
 ## active link
 
-    [![Flavorful Fare](https://flavorful-fare.netlify.app/)]
+[Flavorful Fare](https://flavorful-fare.netlify.app/)
+
     
 ## Features
 
