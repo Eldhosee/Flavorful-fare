@@ -1,0 +1,26 @@
+.mySwiper2 {
+    height: 500px;
+    width: 100%;
+    
+  }
+  video,img{
+    height: 100%;
+    width: 100%;
+  }
+  .mySwiper .swiper-slide {
+    padding-top: 10px;
+    height: auto;
+    opacity: 0.4;
+  }
+  .mySwiper .swiper-slide-thumb-active {
+    opacity: 1;
+  }
+
+  @media (max-width:500px){
+    .mySwiper2 {
+      height: 200px;
+      width: 100%;
+      
+    }
+  }
+

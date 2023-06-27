@@ -1,0 +1,22 @@
+.footer{
+    width: 100%;
+    height: auto;
+    background: #EFEFEF;
+    margin-top: 10%;
+   padding: 5% 10% 2% 10%;
+    
+
+}
+.footerHeading{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+    
+}
+details{
+    padding: 10%;
+}
+.row1{
+    margin-left: 10%;
+    text-decoration: underline;
+}

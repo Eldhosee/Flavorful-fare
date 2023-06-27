@@ -1,0 +1,52 @@
+.detailTop{
+    background: rgb(0, 123, 255);
+    width: 100%;
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+    
+}
+.detailBody{
+    overflow: hidden;
+}
+
+.dishHeading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.dishImages{
+    padding: 0 100px ;
+}
+.dishCarousel{
+    border-radius: 25px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.dishRow2{
+    padding: 100px;
+}
+li{
+    font-size: 20px;
+    
+}
+@media (max-width:1000px) {
+    .dishImages{
+        padding: 10%;
+    }
+}
+@media (max-width:600px) {
+
+    .dishHeading{
+        margin-top: 40px;
+    }
+    li{
+        font-size: large;
+    }
+    .dishRow2{
+        padding: 10px;
+    }
+    .dishImages{
+        padding: 0 30px ;
+    }
+}
