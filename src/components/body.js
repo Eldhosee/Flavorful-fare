@@ -35,7 +35,7 @@ function Homebody() {
 
         </Col>
         <Col lg={6}  id='col2' >
-      <div className='animate__animated animate__slideInRight animate__delay-2s'>
+      <div  >
           <img src={breakfast} rounded />
           </div>
         </Col>
@@ -44,7 +44,7 @@ function Homebody() {
       <h1>Lunch</h1>
       <Row>
         <Col lg={6}  >
-          <div className='animate__animated animate__slideInRight animate__delay-2s'>
+          <div >
           <img src={lunch} className='image2' rounded />
           </div>
         </Col>
@@ -80,7 +80,7 @@ function Homebody() {
 
         </Col>
         <Col lg={6}>
-          <div className='animate__animated animate__slideInRight animate__delay-2s'>
+          <div >
           <img src={desert} rounded />
           </div>
         </Col>
