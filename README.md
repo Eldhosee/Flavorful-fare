@@ -33,7 +33,9 @@ Flavorful Fare is a web application that serves as your ultimate recipe haven. I
 - Axios: HTTP client for making API requests
 - Rapid API: Used for accessing recipe data and information
 
+## demo video
 
+https://drive.google.com/file/d/1mHixw749WcHsZPP4etrVl_aK4CejWFDg/view?usp=sharing
 
 ## License
 
