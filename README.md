@@ -35,7 +35,7 @@ Flavorful Fare is a web application that serves as your ultimate recipe haven. I
 
 ## demo video
 
-https://drive.google.com/file/d/1mHixw749WcHsZPP4etrVl_aK4CejWFDg/view?usp=sharing
+
 
 ## License
 
